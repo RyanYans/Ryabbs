@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Ryabbs"
+  id="myeclipse.1462623471769"
+  context-root="/Ryabbs"
+  j2ee-spec="6.0"
+  archive="Ryabbs.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
